@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_fridge"
+        android:icon="@drawable/fridge"
+        android:title="@string/title_fridge" />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/shop_card"
+        android:title="@string/title_shop_cart" />
+
+    <item
+        android:id="@+id/navigation_food"
+        android:icon="@drawable/list_recipe"
+        android:title="@string/title_list_recipe" />
+
+</menu>
