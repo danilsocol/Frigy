@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Frigy</string>
-    <string name="title_list_recipe">List of recipes</string>
-    <string name="title_fridge">Fridge</string>
-    <string name="title_shop_cart">Shopping Cart</string>
+    <string name="title_list_recipes">Список рецептов</string>
+    <string name="title_fridge">Холодильник</string>
+    <string name="title_shop_cart">Список покупок</string>
+    <string name="title_all_food">Список всех продуктов</string>
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>

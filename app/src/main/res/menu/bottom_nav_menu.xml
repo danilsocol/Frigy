@@ -7,13 +7,18 @@
         android:title="@string/title_fridge" />
 
     <item
-        android:id="@+id/navigation_shop"
+        android:id="@+id/navigation_shop_cart"
         android:icon="@drawable/shop_card"
         android:title="@string/title_shop_cart" />
 
     <item
-        android:id="@+id/navigation_food"
+        android:id="@+id/navigation_list_recipes"
         android:icon="@drawable/list_recipe"
-        android:title="@string/title_list_recipe" />
+        android:title="@string/title_list_recipes" />
+
+    <item
+        android:id="@+id/navigation_all_food"
+        android:icon="@drawable/all_food"
+        android:title="@string/title_all_food" />
 
 </menu>
