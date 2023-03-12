@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_shop_card.png.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\shop_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\layout_fragment_fridge.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_fridge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_background_title.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\background_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\layout_fragment_shop_cart.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_shop_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_list_recipe.png.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\list_recipe.png"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\layout_fragment_list_recipes.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_list_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_minus.png.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.frigy.app-merged_res-48:/layout_fragment_all_food.xml.flat",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_all_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-merged_res-48:/layout_fragment_list_recipes.xml.flat",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_list_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_all_food.png.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\all_food.png"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-merged_res-48:/layout_fragment_fridge.xml.flat",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_fridge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_fridge.png.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\fridge.png"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\layout_fragment_all_food.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_all_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\layout_status_bar.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\status_bar.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-merged_res-48:/layout_fragment_shop_cart.xml.flat",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_shop_cart.xml"
+    }
+]

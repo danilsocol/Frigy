@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.frigy.app-mergeDebugResources-47:/layout/fragment_all_food.xml",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_all_food.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-mergeDebugResources-47:/layout/fragment_list_recipes.xml",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_list_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-mergeDebugResources-47:\\layout\\status_bar.xml",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\status_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-mergeDebugResources-47:\\layout\\fragment_all_food.xml",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_all_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-mergeDebugResources-47:\\layout\\fragment_list_recipes.xml",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_list_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-mergeDebugResources-47:\\layout\\fragment_fridge.xml",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_fridge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-mergeDebugResources-47:\\layout\\fragment_shop_cart.xml",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\fragment_shop_cart.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-mergeDebugResources-47:/layout/fragment_shop_cart.xml",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_shop_cart.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-mergeDebugResources-47:/layout/fragment_fridge.xml",
+        "source": "com.example.frigy.app-main-50:/layout/fragment_fridge.xml"
+    }
+]
