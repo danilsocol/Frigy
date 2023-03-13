@@ -25,7 +25,7 @@
         >
 
         <TextView
-            android:id="@+id/tv1"
+            android:id="@+id/name_food"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="25dp"
@@ -33,62 +33,72 @@
             android:layout_marginBottom="30dp"
             android:text="Название"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintBottom_toTopOf="@id/tv2"
+            app:layout_constraintBottom_toTopOf="@id/important"
             app:layout_constraintStart_toStartOf="parent"/>
 
         <TextView
-            android:id="@+id/tv2"
+            android:id="@+id/important"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20dp"
             android:textColor="@color/black"
             android:layout_marginBottom="20dp"
             android:text="Важный"
-            app:layout_constraintTop_toBottomOf="@+id/tv1"
-            app:layout_constraintBottom_toTopOf="@id/tv3"
+            app:layout_constraintTop_toBottomOf="@+id/name_food"
+            app:layout_constraintBottom_toTopOf="@id/max_quantity"
             app:layout_constraintStart_toStartOf="parent"/>
 
         <CheckBox
-            android:id="@+id/checkBoxColor"
+            android:id="@+id/check_box_important"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:layout_constraintTop_toTopOf="@id/tv2"
-            app:layout_constraintBottom_toBottomOf="@id/tv2"
-            app:layout_constraintStart_toEndOf="@id/tv2"
+            app:layout_constraintTop_toTopOf="@id/important"
+            app:layout_constraintBottom_toBottomOf="@id/important"
+            app:layout_constraintStart_toEndOf="@id/important"
             />
 
         <TextView
-            android:id="@+id/tv3"
+            android:id="@+id/max_quantity"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20dp"
             android:textColor="@color/black"
             android:text="Максимальное кол-во"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tv2"
+            app:layout_constraintTop_toBottomOf="@+id/important"
             app:layout_constraintStart_toStartOf="parent"/>
 
         <EditText
-            android:id="@+id/edte1"
+            android:id="@+id/max_quantity_edit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:layout_constraintTop_toTopOf="@id/tv3"
-            app:layout_constraintBottom_toBottomOf="@id/tv3"
-            app:layout_constraintStart_toEndOf="@id/tv3"/>
+            app:layout_constraintTop_toTopOf="@id/max_quantity"
+            app:layout_constraintBottom_toBottomOf="@id/max_quantity"
+            app:layout_constraintStart_toEndOf="@id/max_quantity"/>
 
         <TextView
-            android:id="@+id/tv4"
+            android:id="@+id/unit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20dp"
             android:textColor="@color/black"
             android:text="литров"
-            app:layout_constraintTop_toTopOf="@id/edte1"
-            app:layout_constraintBottom_toBottomOf="@id/edte1"
-            app:layout_constraintStart_toEndOf="@id/edte1"/>
+            app:layout_constraintTop_toTopOf="@id/max_quantity_edit"
+            app:layout_constraintBottom_toBottomOf="@id/max_quantity_edit"
+            app:layout_constraintStart_toEndOf="@id/max_quantity_edit"/>
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageButton
+        android:id="@+id/close"
+        android:src="@drawable/cross"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+    </ImageButton>
 
 
 
