@@ -4,10 +4,11 @@ package com.example.frigy.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.frigy.R;
@@ -17,19 +18,24 @@ import java.lang.String;
 
 public final class FragmentAllFoodBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final ConstraintLayout rootView;
+
+  @NonNull
+  public final RecyclerView rcViewAllFood;
 
   @NonNull
   public final TextView titleAllFood;
 
-  private FragmentAllFoodBinding(@NonNull FrameLayout rootView, @NonNull TextView titleAllFood) {
+  private FragmentAllFoodBinding(@NonNull ConstraintLayout rootView,
+      @NonNull RecyclerView rcViewAllFood, @NonNull TextView titleAllFood) {
     this.rootView = rootView;
+    this.rcViewAllFood = rcViewAllFood;
     this.titleAllFood = titleAllFood;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -54,13 +60,19 @@ public final class FragmentAllFoodBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.rc_view_all_food;
+      RecyclerView rcViewAllFood = ViewBindings.findChildViewById(rootView, id);
+      if (rcViewAllFood == null) {
+        break missingId;
+      }
+
       id = R.id.title_all_food;
       TextView titleAllFood = ViewBindings.findChildViewById(rootView, id);
       if (titleAllFood == null) {
         break missingId;
       }
 
-      return new FragmentAllFoodBinding((FrameLayout) rootView, titleAllFood);
+      return new FragmentAllFoodBinding((ConstraintLayout) rootView, rcViewAllFood, titleAllFood);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

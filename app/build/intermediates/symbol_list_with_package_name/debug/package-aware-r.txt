@@ -2758,7 +2758,6 @@ drawable all_food
 drawable avd_hide_password
 drawable avd_show_password
 drawable background_gradient
-drawable background_title
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2767,6 +2766,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable cross
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -2790,6 +2790,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
 drawable ic_search_black_24
+drawable liquid
 drawable list_recipe
 drawable m3_appbar_background
 drawable m3_avd_hide_password
@@ -2863,11 +2864,13 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable piece_product
 drawable plus
 drawable shop_card
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable weight_product
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2982,6 +2985,7 @@ id center_vertical
 id chain
 id chain2
 id chains
+id check_box_important
 id checkbox
 id checked
 id chronometer
@@ -2990,6 +2994,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id clockwise
+id close
 id closest
 id collapseActionView
 id compress
@@ -3084,12 +3089,14 @@ id homeAsUp
 id honorRequest
 id horizontal_only
 id icon
+id icon_food_category
 id icon_group
 id ifRoom
 id ignore
 id ignoreRequest
 id image
 id immediateStop
+id important
 id included
 id indeterminate
 id info
@@ -3137,6 +3144,8 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id max_quantity
+id max_quantity_edit
 id media_actions
 id message
 id middle
@@ -3173,6 +3182,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name_food
 id nav_controller_view_tag
 id nav_host_fragment
 id nav_host_fragment_container
@@ -3224,6 +3234,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id rc_view_all_food
 id rectangles
 id reverseSawtooth
 id right
@@ -3363,6 +3374,7 @@ id transition_transform
 id triangle
 id unchecked
 id uniform
+id unit
 id unlabeled
 id up
 id useLogo
@@ -3512,6 +3524,7 @@ layout fragment_all_food
 layout fragment_fridge
 layout fragment_list_recipes
 layout fragment_shop_cart
+layout item_rc_view_all_food
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

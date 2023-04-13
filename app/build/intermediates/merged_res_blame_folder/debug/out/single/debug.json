@@ -1,5 +1,9 @@
 [
     {
+        "merged": "com.example.frigy.app-merged_res-48:/drawable_liquid.png.flat",
+        "source": "com.example.frigy.app-main-50:/drawable/liquid.png"
+    },
+    {
         "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_shop_card.png.flat",
         "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\shop_card.png"
     },
@@ -48,12 +52,12 @@
         "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_background_gradient.xml.flat",
-        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\background_gradient.xml"
-    },
-    {
         "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\drawable\\background_gradient.xml"
     },
     {
         "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_ic_dashboard_black_24dp.xml.flat",
@@ -88,6 +92,10 @@
         "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.frigy.app-merged_res-48:/drawable_weight_product.png.flat",
+        "source": "com.example.frigy.app-main-50:/drawable/weight_product.png"
+    },
+    {
         "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -106,6 +114,14 @@
     {
         "merged": "com.example.frigy.app-merged_res-48:/layout_fragment_list_recipes.xml.flat",
         "source": "com.example.frigy.app-main-50:/layout/fragment_list_recipes.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-merged_res-48:/drawable_piece_product.png.flat",
+        "source": "com.example.frigy.app-main-50:/drawable/piece_product.png"
+    },
+    {
+        "merged": "com.example.frigy.app-merged_res-48:/drawable_cross.png.flat",
+        "source": "com.example.frigy.app-main-50:/drawable/cross.png"
     },
     {
         "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\drawable_all_food.png.flat",
@@ -154,6 +170,10 @@
     {
         "merged": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-merged_res-48:\\layout_status_bar.xml.flat",
         "source": "C:\\Users\\Seraphic\\.gradle\\daemon\\7.5\\com.example.frigy.app-main-50:\\layout\\status_bar.xml"
+    },
+    {
+        "merged": "com.example.frigy.app-merged_res-48:/layout_item_rc_view_all_food.xml.flat",
+        "source": "com.example.frigy.app-main-50:/layout/item_rc_view_all_food.xml"
     },
     {
         "merged": "com.example.frigy.app-merged_res-48:/layout_fragment_shop_cart.xml.flat",
